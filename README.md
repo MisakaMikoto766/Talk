@@ -70,6 +70,7 @@ python3 doc_pat_int.py
     <p class="image-caption">Table 2: Automatic evaluation results for the doctor agent in BBN conversations simulation.</p>
 </div>
 ---
+
 ### Cognitive & Affective Classification (Patients)
 
 <div align="center">
