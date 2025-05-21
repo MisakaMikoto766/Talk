@@ -63,7 +63,7 @@ python3 doc_pat_int.py
 ```
 ## Main Results
 
-### Main Results (Doctors)
+### Automatic Evaluation Results (Doctors)
 
 <div align="center">
     <img width="50%" alt="CommonMT" src="imgs/ex3.png" />
