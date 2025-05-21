@@ -19,7 +19,7 @@
 
 Empathetic communication is a critical yet underexplored aspect of AI in healthcare. Among the most challenging scenarios is Breaking Bad News (BBN) , the process of delivering distressing medical information to critically ill patients with empathy, clarity, and professionalism. While large language models (LLMs) have shown strong performance in tasks such as diagnosis and factual dialogue, they still lack robust mechanisms to handle emotionally sensitive, high-stakes interactions like BBN. 
 
-- **❗ High Emotional Complexity: **: Unlike mental health dialogue systems, which often deal with lower-risk scenarios such as academic stress or interpersonal issues, Breaking Bad News (BBN) involves *highly vulnerable patients and intense emotional dynamics*.
+- **❗ High Emotional Complexity**: Unlike mental health dialogue systems, which often deal with lower-risk scenarios such as academic stress or interpersonal issues, Breaking Bad News (BBN) involves *highly vulnerable patients and intense emotional dynamics*.
 - **⚖️ Asymmetry of Roles**: The physician holds extensive medical expertise and decision-making authority, while the critically ill patient, who *lacks full understanding of their condition*, remains in a passive and emotionally extremely **vulnerable position**.
 - **⏱️ Time and Resource Constraints**: In real clinical practice, doctors often lack the bandwidth to deliver bad news with consistent empathy and care.
 
