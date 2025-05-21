@@ -2,11 +2,7 @@
   <img src="imgs/logo.png" alt="Logo" width="200">
 </div>
 
-<div style="display: flex; align-items: flex-start; justify-content: center; max-width: 90%; margin: auto;">
-  <img src="imgs/smalltitle.png" alt="Logo" width="50" style="margin-right: 10px; flex-shrink: 0;">
-  <div style="font-size: 1.5em; font-weight: bold; line-height: 1.3; max-width: 800px;">
-    Talk with Empathetic Clinical Agents: BREAKING BAD NEWS Conversations via Diversified Patient Simulation
-  </div>
+<h2 align="center">😄 Talk with Empathetic Clinical Agents: BREAKING BAD NEWS Conversations via Diversified Patient Simulation</h2>
 </div>
 <div style="text-align: center;">
   <img src="https://img.shields.io/badge/python-v3.7+-red">
