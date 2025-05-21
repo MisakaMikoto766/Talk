@@ -63,7 +63,14 @@ python3 doc_pat_int.py
 ```
 ## Main Results
 
-### Cognitive & Affective Classification
+### Main Results (Doctors)
+
+<div align="center">
+    <img width="50%" alt="CommonMT" src="imgs/ex3.png" />
+    <p class="image-caption">Table 2: Automatic evaluation results for the doctor agent in BBN conversations simulation.</p>
+</div>
+---
+### Cognitive & Affective Classification (Patients)
 
 <div align="center">
     <img width="35%" alt="CounterintuitiveQA" src="imgs/ex1.png" />
@@ -75,13 +82,5 @@ python3 doc_pat_int.py
     <p class="image-caption">Table 1: F1 Scores for Diversified Affective Simulation based on the Big Five Inventory. The gold label corresponds to the assigned affective traits in the simulated patient profiles.</p>
 </div>
 
----
-
-### Main
-
-<div align="center">
-    <img width="50%" alt="CommonMT" src="imgs/ex3.png" />
-    <p class="image-caption">Table 2: Automatic evaluation results for the doctor agent in BBN conversations simulation.</p>
-</div>
 
 
